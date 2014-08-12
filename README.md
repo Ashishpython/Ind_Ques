@@ -10,40 +10,16 @@ No. of Hours for Presentation
 
 Cost benefit for presenter
 
-P1
-	
+P1   2   $100
 
-2
-	
+P2   4   $200
 
-$100
-
-P2
-	
-
-4
-	
-
-$200
-
-P3
-	
-
-2
-	
-
-$50
+P3   2   $50
 
 ..
 		
 
-Pn
-	
-
-1
-	
-
-$400
+Pn   1   $400
 
  
 
